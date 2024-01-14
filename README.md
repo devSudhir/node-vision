@@ -17,4 +17,5 @@ You will be implementing a backend to detect label in images using _AWS Rekognit
 
 ## Sample
 
-![Sample](public/images/sample-app.png)
+![Sample1](public/images/sample-app.png)
+![Sample2](public/images/sample-app-2.png)
